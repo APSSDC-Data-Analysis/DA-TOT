@@ -8,3 +8,6 @@
 
 ### Day-3(Pandas-2)
 #### Recorded Video Link --> [Video Link](https://transcripts.gotomeeting.com/#/s/0ff9c3dbfa7fa3deaa39222dc4227241340c22e7213a8a778e75380b4d089d6b)
+
+### Day-4(Preprocessing using scikit learn)
+#### Recorded Video Link --> [Video Link](https://drive.google.com/file/d/1meoTwA1lVzSHvRPGwCLUOMQP3WTqOrXn/view?usp=sharing)
