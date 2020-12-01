@@ -11,3 +11,6 @@
 
 ### Day-4(Preprocessing using scikit learn)
 #### Recorded Video Link --> [Video Link](https://drive.google.com/file/d/1meoTwA1lVzSHvRPGwCLUOMQP3WTqOrXn/view?usp=sharing)
+
+### Day-5(Pandas-4,Matplotlib)
+#### Recorded Video Link --> [Video Link](https://transcripts.gotomeeting.com/#/s/bc89d0026b362710f5a488d1f7c5db4b60bca9674536f3d18a223d58f8732ad9)
