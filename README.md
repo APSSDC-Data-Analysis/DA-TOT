@@ -14,3 +14,13 @@
 
 ### Day-5(Pandas-4,Matplotlib)
 #### Recorded Video Link --> [Video Link](https://transcripts.gotomeeting.com/#/s/bc89d0026b362710f5a488d1f7c5db4b60bca9674536f3d18a223d58f8732ad9)
+
+
+
+# Machine Learning using python
+## Day-1(03Dec2020)
+*	Introduction to Machine Learning 
+*	Prediction of RIL revenue by Linear Regression
+*	[Notebook](ML_Day1/ml_day1_03Dec2020.ipynb)
+*	[Reliance.csv](https://raw.githubusercontent.com/APSSDC-Data-Analysis/DA-TOT/master/ML_Day1/reliance.csv)
+*	[notes](ML_Day1/1_notes.txt)

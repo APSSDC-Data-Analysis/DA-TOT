@@ -1,0 +1,145 @@
+
+we want predict the salary of the employee with his experience?
+
+Salary ---Output/Target/labels
+Experience --- Input/features
+
+
+
+what is the possible output/target  in this problem
+	is it continuous values or discrete values?
+	12000
+	16000
+	30000
+	50000
+
+
+
+discrete values 
+	if the values fixed
+
+
+we want to findout person has cancer or not?
+
+	possible target
+		yes/no
+		1/0
+		true/false
+
+
+
+
+
+we split the samples/data
+	training data
+	testing data
+
+
+
+Customer sigmentation
+	banking
+	flipkart
+
+
+
+
+
+we want predict the salary of the employee with his experience?
+
+1. Get data
+	we required past data of employee experience and salaries
+	a) different companies websites
+	b) search in google to get required data
+	c) verify public repositories 
+	d) Conducting lucky draws
+	e) google fourms
+	d) generate the dummy data with formulaes(y=mx+c)
+2. Pre-processing
+	we have to verify the data
+	to check any missing values?
+	to check any invalid values?
+	apply data analysis
+
+	
+	
+	
+	example you gathered patients data in that you have 2 columns	
+	patient _id   , fever in degrees
+	ramu 		80
+	raju 		90
+	lakshmi		1000
+
+	
+
+	
+	
+
+3. Train model
+	a) identify the algorithm
+	b) seperate the features and target
+	c) if possible split the data for training and testing
+	d) create the object for algorithm
+	e) train the algorithm with training data
+
+4. Test model
+	by using testing data we have to test the model
+
+5. Improve the model
+	1. features selection
+	2. features combination
+	3. Parameter tuning
+	4. getting more samples to train the machine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we build the model to predict person has cancer or not?
+	model with 98% accuracy
+	2% chance model fail to predict
+i went to hospital to check i am effected with cancer or not
+	i may get cancer 
+
+
+
+
+
+
+
+
+we want to know performance of student by conducting exam?
+
+teacher given 10 questions to students each question has 1 mark
+
+students given correct answers for 6 questions
+in this situation what performance of the student
+	
+correct_answers/no of question
+
+	6/10
+	60%
+
+
+
+
+ 
+
+
+
+
+
+
