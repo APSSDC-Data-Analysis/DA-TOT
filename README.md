@@ -31,4 +31,4 @@
 *	Multi Linear Regression
 *   Polynomial features 
 *	[Notebook](ML_Day2/ml_day2_04Dec2020.ipynb)
-*	[recorded video pending]()
+*	[recorded video ](https://transcripts.gotomeeting.com/#/s/40da243b47e533b8f36e73ef6316bea748686882c5b6d5267e91e38c716f002d)
