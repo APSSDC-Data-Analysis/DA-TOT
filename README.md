@@ -17,10 +17,18 @@
 
 
 
-# Machine Learning using python
+## Machine Learning using python 
 ## Day-1(03Dec2020)
 *	Introduction to Machine Learning 
 *	Prediction of RIL revenue by Linear Regression
 *	[Notebook](ML_Day1/ml_day1_03Dec2020.ipynb)
-*	[Reliance.csv](https://raw.githubusercontent.com/APSSDC-Data-Analysis/DA-TOT/master/ML_Day1/reliance.csv)
+*	[Reliance.csv](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day1/reliance.csv)
 *	[notes](ML_Day1/1_notes.txt)
+*	[recorded video](https://transcripts.gotomeeting.com/#/s/b0cb2785081249b53b7e21fc640b047659dd1a99d5f8eb543931dda111be5827)
+
+
+## Day-2(04Dec2020)
+*	Multi Linear Regression
+*   Polynomial features 
+*	[Notebook](ML_Day2/ml_day2_04Dec2020.ipynb)
+*	[recorded video]()
