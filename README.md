@@ -15,7 +15,8 @@
 ### Day-5(Pandas-4,Matplotlib)
 #### Recorded Video Link --> [Video Link](https://transcripts.gotomeeting.com/#/s/bc89d0026b362710f5a488d1f7c5db4b60bca9674536f3d18a223d58f8732ad9)
 
-
+### Day-6(Seaborn)
+#### Recorded Video Link --> [Video Link](https://transcripts.gotomeeting.com/#/s/1037a02dcd252a6e7994a0d6afb4a864f03bd413e962bab2fc6f895f5dbbad13)
 
 ## Machine Learning using python 
 ## Day-1(03Dec2020)
