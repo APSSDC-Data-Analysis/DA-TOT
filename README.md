@@ -45,4 +45,4 @@
 *	Logistic Regression
 * Support Vector Machine
 *	[Notebook](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day4/07-12-2020%20Logistic_Regression%2CSVM.ipynb)
-*	[recorded video ]()
+*	[recorded video ](https://transcripts.gotomeeting.com/#/s/430205a918f4097da2e66d071f3f549f0946e742ba9eacd4fce18a558c1749ef)
