@@ -37,12 +37,12 @@
 ## Day-3(05Dec2020)
 *	Introduction to Classification
 * KNN Algorithm
-*	[Notebook](ML_Day3/KNN.ipynb)
+*	[Notebook](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day3/KNN%20.ipynb)
 *	[recorded video ](https://transcripts.gotomeeting.com/#/s/bfcb16e32775b2ef472d3b8db2ddbfe15f1b955bfb1d4b4808818570dfe30cb1)
 
 
-## Day-3(05Dec2020)
+## Day-4(07Dec2020)
 *	Logistic Regression
 * Support Vector Machine
-*	[Notebook](ML_Day4/07-12-2020 Logistic_Regression,SVM.ipynb)
+*	[Notebook](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day4/07-12-2020%20Logistic_Regression%2CSVM.ipynb)
 *	[recorded video ]()
