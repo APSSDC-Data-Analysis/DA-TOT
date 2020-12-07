@@ -33,3 +33,16 @@
 *   Polynomial features 
 *	[Notebook](ML_Day2/ml_day2_04Dec2020.ipynb)
 *	[recorded video ](https://transcripts.gotomeeting.com/#/s/40da243b47e533b8f36e73ef6316bea748686882c5b6d5267e91e38c716f002d)
+
+## Day-3(05Dec2020)
+*	Introduction to Classification
+* KNN Algorithm
+*	[Notebook](ML_Day3/KNN.ipynb)
+*	[recorded video ](https://transcripts.gotomeeting.com/#/s/bfcb16e32775b2ef472d3b8db2ddbfe15f1b955bfb1d4b4808818570dfe30cb1)
+
+
+## Day-3(05Dec2020)
+*	Logistic Regression
+* Support Vector Machine
+*	[Notebook](ML_Day4/07-12-2020 Logistic_Regression,SVM.ipynb)
+*	[recorded video ]()
