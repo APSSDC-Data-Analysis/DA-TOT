@@ -46,3 +46,12 @@
 * Support Vector Machine
 *	[Notebook](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day4/07-12-2020%20Logistic_Regression%2CSVM.ipynb)
 *	[recorded video ](https://transcripts.gotomeeting.com/#/s/430205a918f4097da2e66d071f3f549f0946e742ba9eacd4fce18a558c1749ef)
+
+## Day-5(08Dec2020)
+*	Introduction to Decision Tree
+* Terminology related to Decision Trees
+* Types of Decision Trees
+* Decision Trees Classifier
+*	[Notebook](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day5/08-12-2020%20Decision%20Tree.ipynb)
+*	[recorded video ](https://transcripts.gotomeeting.com/#/s/1182d748b04fa5923950d7fb235f20c3e34b6b4811cf5947e452f77106ad4223)
+* [PPT](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day5/Decision%20Tree.pptx)
