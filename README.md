@@ -62,3 +62,12 @@
 *	[Notebook](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day6/09-12-2020-Decision%20Tree%20Regressor%20%26%20Random%20Forest.ipynb)
 *	[recorded video ](https://transcripts.gotomeeting.com/#/s/9280e7c4cc66d80992520ea21adda931c0323a8530cb0c5425974e50e4e05fe9)
 
+## Day-7(10Dec2020)
+* Introduction to Unsupervised Learning
+* Types of Unsupervised Learning
+* Introduction to clustering
+* Types of Clustering methods
+* KMeans Clustering
+* Applications
+*	[Notebook](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day7/10-12-2020%20KMeans.ipynb)
+*	[recorded video ](https://transcripts.gotomeeting.com/#/s/f224763fad4748905323b8a157ccb7c4f2c1f7c133a8b7d25201eac8eb7b9157)
