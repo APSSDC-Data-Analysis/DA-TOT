@@ -56,7 +56,7 @@
 *	[recorded video ](https://transcripts.gotomeeting.com/#/s/1182d748b04fa5923950d7fb235f20c3e34b6b4811cf5947e452f77106ad4223)
 * [PPT](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day5/Decision%20Tree.pptx)
 
-## Day-5(08Dec2020)
+## Day-6(09Dec2020)
 *	Decision Tree Regressor
 * Random Forest Algorithm
 *	[Notebook](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day6/09-12-2020-Decision%20Tree%20Regressor%20%26%20Random%20Forest.ipynb)
