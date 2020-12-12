@@ -1,0 +1,45 @@
+Supervised Machine Learning
+
+1. Get data or read the data
+2. Preprocess the data
+3. Seperate the data into Feature Labels (input labels ) and target(o/p ) from original data
+4. Spliting the data into train and test data(optional)
+5. Visualization(optional)
+
+6.1 Import required Algorithm or model
+6.2 Train the model or apply the model
+7.Test the model 
+8. Evaluation the model
+      A.Regression
+	i.Score
+	ii.Mean Square Error
+     B. Classification
+	i. accuracy_model
+	ii.confussion_matrix
+	iii.Classification_model
+
+a0 * x0^0 + a1 * x1^1+a2*x2^2.................................
+
+ m *x + c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
