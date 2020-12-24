@@ -74,7 +74,7 @@
 
 
 ## Day-8(11Dec2020)
-* Dimentionality Reduction
+* Dimensionality Reduction
 * Principal Component Analysis
 * [Notebook](https://github.com/APSSDC-Data-Analysis/DA-TOT/blob/main/ML_Day8/Follow_08_Day8_11Dec2020.ipynb)
 * [recorded video](https://transcripts.gotomeeting.com/#/s/7bd2c878a985b96ff206908b217063d88cdc1223b3535f2efd31310d414181a4)
